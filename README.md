@@ -2,7 +2,7 @@
 
 vibranceGUI 的繁體中文自用版。可為 CS2 等 Windows 程式設定色彩飽和度，切換視窗時自動套用對應的數值。
 
-## 暗色 v2
+## 暗色
 
 - 繁體中文介面、暗色主題，使用 10.5 pt 微軟正黑體 UI。
 - 移除主視窗的 Twitter 和 PayPal 區塊，標題只顯示 `vibranceGUI`。
